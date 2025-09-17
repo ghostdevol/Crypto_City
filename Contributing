@@ -1,0 +1,23 @@
+# 🤝 Contributing to Crypto_City
+
+Crypto_City is a modular, faction-driven Ethereum explorer. Contributions are welcome—but must respect the project's forensic integrity and creative autonomy.
+
+## 🧠 Guidelines
+- Fork the repo and submit pull requests with clear descriptions
+- All dApps must be sandboxed and wallet-authenticated
+- No scammy, deceptive, or honeypot logic allowed
+- Respect the GhostDevol license and attribution rules
+
+## 🧩 Areas to Contribute
+- New faction overlays and analytics panels
+- DApp registry enhancements (GraphQL, IPFS, etc.)
+- UI polish and post-processing effects
+- Modular gameplay mechanics tied to wallet state
+
+## 🔐 Security
+If you discover a vulnerability, report it privately to ghostdevol@protonmail.com. Do not disclose publicly until patched.
+
+## 🧼 Code Style
+- C# scripts should be modular and extensible
+- Use UnityEvents or ScriptableObjects for clean decoupling
+- Follow Unity naming conventions and avoid hardcoded logic
