@@ -1,0 +1,22 @@
+Crypto_City/
+├── Assets/
+│   ├── Scripts/
+│   │   ├── WalletManager.cs
+│   │   ├── ExplorerUI.cs
+│   │   ├── FactionOverlay.cs
+│   │   ├── DAppLoader.cs
+│   │   └── PlayerMovement.cs
+│   ├── Prefabs/
+│   │   ├── CommunityBuilding.prefab
+│   │   ├── FactionKiosk.prefab
+│   ├── Scenes/
+│   │   └── CryptoCity.unity
+│   ├── UI/
+│   │   ├── WalletCanvas
+│   │   ├── ExplorerPanel
+│   │   └── DAppSubmissionForm
+├── .gitignore
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
+├── ROADMAP.md
