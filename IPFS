@@ -1,0 +1,7 @@
+{
+  "name": "TokenSwap",
+  "description": "Swap tokens securely",
+  "faction": "ChainSentinel",
+  "creatorWallet": "0x123...",
+  "ipfsHash": "QmXyz..."
+}
