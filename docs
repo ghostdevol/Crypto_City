@@ -1,0 +1,9 @@
+<!-- docs/index.html -->
+<!DOCTYPE html>
+<html>
+  <head><title>Crypto_City</title></head>
+  <body>
+    <h1>🏙️ Welcome to Crypto_City</h1>
+    <p>Modular Ethereum explorer built in Unity. Powered by GhostDevol.</p>
+  </body>
+</html>
